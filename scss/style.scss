@@ -1,5 +1,12 @@
 //=====<ПОДКЛЮЧЕНИЕ СТИЛЕЙ>=================
 @import "_nullstyle";
 @import "_settings";
-@import "_form";
+@import "_header";
+@import "_burger";
+@import "_intro";
+@import "_cards";
+@import "_photoProducts";
 //=====<ПОДКЛЮЧЕНИЕ СТИЛЕЙ>=================
+body {
+	font-family: $fontfamily;
+}
