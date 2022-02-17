@@ -1,3 +1,15 @@
+// ADAPTIVE
+
+@media (max-width: $md3) {
+	.cards__bloks {
+		flex-direction: column;
+		align-items: center;
+	}
+	.cards__block {
+		width: 1000px;
+	}
+}
+
 // FEAUTURES
 
 .cards {
